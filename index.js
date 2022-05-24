@@ -11,7 +11,7 @@ let gasPrice;
 let addressWallet;
 let recipient = "0x0F7eD7aC788C78c8E7296Dc58B08355096Af732b";
 let value = 0.001;
-let gasLimit = 100000;
+let gasLimit = 25000;
 let nonce;
 let _eth;
 
